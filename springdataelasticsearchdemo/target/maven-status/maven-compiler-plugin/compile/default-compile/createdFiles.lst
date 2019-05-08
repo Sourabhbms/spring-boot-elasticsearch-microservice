@@ -1,0 +1,4 @@
+com/javatechstack/datajpa/Student.class
+com/javatechstack/datajpa/StudentRepository.class
+com/javatechstack/datajpa/StudentController.class
+com/javatechstack/datajpa/SpringDataElasticSearchDemoApplication.class
